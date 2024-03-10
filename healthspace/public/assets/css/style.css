@@ -43,7 +43,7 @@ h6 {
   right: 15px;
   bottom: 15px;
   z-index: 996;
-  background: #5777ba;
+  background: #3C7168;
   width: 40px;
   height: 40px;
   border-radius: 50px;
@@ -402,12 +402,12 @@ h6 {
   border-radius: 3px;
   transition: 0.5s;
   color: #fff;
-  background: #47536e;
+  background: #3C7168;
   position: relative;
 }
 
 #hero .download-btn:hover {
-  background: #5777ba;
+  background: #3C7168;
 }
 
 #hero .download-btn i {

@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Appland Bootstrap Template - Index</title>
+  <title>HealthSpace- Index</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
@@ -42,7 +42,7 @@
     <div class="container d-flex align-items-center justify-content-between">
 
       <div class="logo">
-        <h1><a href="index.html">Appland</a></h1>
+        <h1><a href="index.html">HealthSpace</a></h1>
         <!-- Uncomment below if you prefer to use an image logo -->
         <!-- <a href="index.html"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
       </div>
@@ -87,10 +87,9 @@
       <div class="row">
         <div class="col-lg-6 d-lg-flex flex-lg-column justify-content-center align-items-stretch pt-5 pt-lg-0 order-2 order-lg-1" data-aos="fade-up">
           <div>
-            <h1>App landing page template</h1>
-            <h2>Lorem ipsum dolor sit amet, tota senserit percipitur ius ut, usu et fastidii forensibus voluptatibus. His ei nihil feugait</h2>
-            <a href="#" class="download-btn"><i class="bx bxl-play-store"></i> Google Play</a>
-            <a href="#" class="download-btn"><i class="bx bxl-apple"></i> App Store</a>
+            <h1>Klinik Fanda Berkat Medika Panti</h1>
+            <h2></h2>
+            <a href="#" class="download-btn"><i class="fa-regular fa-comments"></i>Telemedicine</a>
           </div>
         </div>
         <div class="col-lg-6 d-lg-flex flex-lg-column align-items-stretch order-1 order-lg-2 hero-img" data-aos="fade-up">
