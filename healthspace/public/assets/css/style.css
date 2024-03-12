@@ -15,12 +15,12 @@ body {
 }
 
 a {
-  color: #5777ba;
+  color: #3C7168;
   text-decoration: none;
 }
 
 a:hover {
-  color: #7b94c9;
+  color: #2b2d2c;
   text-decoration: none;
 }
 
@@ -57,7 +57,7 @@ h6 {
 }
 
 .back-to-top:hover {
-  background: #748ec6;
+  background: #3C7168;
   color: #fff;
 }
 
@@ -105,7 +105,7 @@ h6 {
 
 #header .logo h1 a,
 #header .logo h1 a:hover {
-  color: #5777ba;
+  color: #3C7168;
   text-decoration: none;
 }
 
@@ -144,7 +144,7 @@ h6 {
   padding: 10px 0 10px 30px;
   font-family: "Raleway", sans-serif;
   font-size: 15px;
-  color: #47536e;
+  color: #1f2120;
   white-space: nowrap;
   transition: 0.3s;
 }
@@ -160,12 +160,12 @@ h6 {
 .navbar .active,
 .navbar .active:focus,
 .navbar li:hover>a {
-  color: #5777ba;
+  color: #3C7168;
 }
 
 .navbar .getstarted,
 .navbar .getstarted:focus {
-  background: #5777ba;
+  background: #3C7168;
   color: #fff;
   padding: 12px 25px;
   margin-left: 30px;
@@ -176,7 +176,7 @@ h6 {
 
 .navbar .getstarted:hover,
 .navbar .getstarted:focus:hover {
-  background: #748ec6;
+  background: #4FAA84;
   color: #fff;
 }
 
@@ -383,7 +383,7 @@ h6 {
   font-size: 48px;
   font-weight: 500;
   line-height: 56px;
-  color: #5777ba;
+  color: #3C7168;
   font-family: "Poppins", sans-serif;
 }
 
@@ -567,7 +567,7 @@ section {
 .features .content .icon-box i {
   font-size: 48px;
   float: left;
-  color: #5777ba;
+  color: #3C7168;
 }
 
 .features .content .icon-box p {

@@ -51,7 +51,7 @@
       <nav id="navbar" class="navbar">
         <ul>
           <li><a class="nav-link scrollto active" href="#hero">Home</a></li>
-          <li><a class="nav-link scrollto" href="#features">App Features</a></li>
+          <li><a class="nav-link scrollto" href="#features">Tentang Klinik</a></li>
           <li><a class="nav-link scrollto" href="#gallery">Gallery</a></li>
           <li><a class="nav-link scrollto" href="#pricing">Pricing</a></li>
           <li><a class="nav-link scrollto" href="#faq">F.A.Q</a></li>
@@ -109,8 +109,10 @@
 
         <div class="section-title">
           <h2>Tentang Klinik</h2>
-          <p>Klinik Fanda Berkat Medika Panti menyediakan layanan medis UGD 24 jam, Rawat  Jalan, Rawat Inap, KIA, Khitan/Sunat,
-            Rawat Luka, Laboratorium, Home Visite, Ambulance, dan Poli Kecantikan (YND)</p>
+          <p>Klinik Fanda Berkat Medika Panti adalah salah satu unit pelayanan kesehatan yang menyediakan layanan medis kepada masyarakat. 
+            Klinik ini bertujuan untuk memberikan pelayanan kesehatan yang berkualitas dan terjangkau bagi masyarakat sekitar. 
+            Dengan tenaga medis yang profesional dan berpengalaman, serta fasilitas yang memadai, klinik ini berkomitmen untuk memberikan 
+            pelayanan yang terbaik bagi setiap pasien yang datang.</p>
         </div>
 
         <div class="row no-gutters">
@@ -118,34 +120,44 @@
             <div class="content d-flex flex-column justify-content-center">
               <div class="row">
                 <div class="col-md-6 icon-box" data-aos="fade-up">
-                  <i class="bx bx-receipt"></i>
-                  <h4>Corporis voluptates sit</h4>
-                  <p>Consequuntur sunt aut quasi enim aliquam quae harum pariatur laboris nisi ut aliquip</p>
+                <i class='bx bx-health' ></i>
+                  <h4>Unit Gawat Darurat 24 Jam</h4>
+                  <p></p>
                 </div>
                 <div class="col-md-6 icon-box" data-aos="fade-up" data-aos-delay="100">
-                  <i class="bx bx-cube-alt"></i>
-                  <h4>Ullamco laboris nisi</h4>
-                  <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt</p>
+                <i class='bx bx-plus-medical'></i>
+                  <h4>Pelayanan Rawat Jalan</h4>
+                  <p></p>
                 </div>
                 <div class="col-md-6 icon-box" data-aos="fade-up" data-aos-delay="200">
-                  <i class="bx bx-images"></i>
-                  <h4>Labore consequatur</h4>
-                  <p>Aut suscipit aut cum nemo deleniti aut omnis. Doloribus ut maiores omnis facere</p>
+                <i class='bx bx-bed' ></i>
+                  <h4>Pelayanan Rawat Inap</h4>
+                  <p></p>
                 </div>
                 <div class="col-md-6 icon-box" data-aos="fade-up" data-aos-delay="300">
                   <i class="bx bx-shield"></i>
-                  <h4>Beatae veritatis</h4>
-                  <p>Expedita veritatis consequuntur nihil tempore laudantium vitae denat pacta</p>
+                  <h4>Pelayanan Kesehatan Ibu dan Anak (KIA)</h4>
+                  <p></p>
                 </div>
                 <div class="col-md-6 icon-box" data-aos="fade-up" data-aos-delay="400">
-                  <i class="bx bx-atom"></i>
-                  <h4>Molestiae dolor</h4>
-                  <p>Et fuga et deserunt et enim. Dolorem architecto ratione tensa raptor marte</p>
+                <i class='bx bx-face'></i>
+                  <h4>Pelayanan Khitan/Sunat</h4>
+                  <p></p>
                 </div>
                 <div class="col-md-6 icon-box" data-aos="fade-up" data-aos-delay="500">
-                  <i class="bx bx-id-card"></i>
-                  <h4>Explicabo consectetur</h4>
-                  <p>Est autem dicta beatae suscipit. Sint veritatis et sit quasi ab aut inventore</p>
+                <i class='bx bx-home-alt'></i>
+                  <h4>Home Visite</h4>
+                  <p></p>
+                </div>
+                <div class="col-md-6 icon-box" data-aos="fade-up" data-aos-delay="600">
+                <i class='bx bxs-ambulance'></i>
+                  <h4>Ambulance</h4>
+                  <p></p>
+                </div>
+                <div class="col-md-6 icon-box" data-aos="fade-up" data-aos-delay="700">
+                <i class='bx bx-spa'></i>
+                  <h4>Poli Kecantikan</h4>
+                  <p></p>
                 </div>
               </div>
             </div>
@@ -167,19 +179,10 @@
             <img src="assets/img/details-1.png" class="img-fluid" alt="">
           </div>
           <div class="col-md-8 pt-4" data-aos="fade-up">
-            <h3>Voluptatem dignissimos provident quasi corporis voluptates sit assumenda.</h3>
-            <p class="fst-italic">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-              magna aliqua.
-            </p>
-            <ul>
-              <li><i class="bi bi-check"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat.</li>
-              <li><i class="bi bi-check"></i> Duis aute irure dolor in reprehenderit in voluptate velit.</li>
-              <li><i class="bi bi-check"></i> Iure at voluptas aspernatur dignissimos doloribus repudiandae.</li>
-              <li><i class="bi bi-check"></i> Est ipsa assumenda id facilis nesciunt placeat sed doloribus praesentium.</li>
-            </ul>
+            <u><h3>Visi Klinik Fanda Berkat Medika </h3></u>
             <p>
-              Voluptas nisi in quia excepturi nihil voluptas nam et ut. Expedita omnis eum consequatur non. Sed in asperiores aut repellendus. Error quisquam ab maiores. Quibusdam sit in officia
+            <h4>Terwujudnya Klinik Fanda Berkat Medika Panti sebagai pusat layanan kesehatan yang terpercaya, 
+            unggul, dan profesional dalam mewujudkan masyarakat yang sehat secara paripurna. </h4>
             </p>
           </div>
         </div>
@@ -189,19 +192,13 @@
             <img src="assets/img/details-2.png" class="img-fluid" alt="">
           </div>
           <div class="col-md-8 pt-5 order-2 order-md-1" data-aos="fade-up">
-            <h3>Corporis temporibus maiores provident</h3>
-            <p class="fst-italic">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-              magna aliqua.
-            </p>
-            <p>
-              Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-              velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-              culpa qui officia deserunt mollit anim id est laborum
-            </p>
-            <p>
-              Inventore id enim dolor dicta qui et magni molestiae. Mollitia optio officia illum ut cupiditate eos autem. Soluta dolorum repellendus repellat amet autem rerum illum in. Quibusdam occaecati est nisi esse. Saepe aut dignissimos distinctio id enim.
-            </p>
+            <u><h3>Misi Klinik Fanda Berkat Medika</h3></u>
+            <ul>
+              <li><i class="bi bi-check"></i> Menjadikan Klinik sebagai layanan dasar kesehatan yang profesional dan berkualitas</li>
+              <li><i class="bi bi-check"></i> Meningkatkan pengembangan sumber daya manusia di klinik</li>
+              <li><i class="bi bi-check"></i> Menjadikan rujukan pelayanan kesehatan yang menyeluruh bagi masyarakat</li>
+              <li><i class="bi bi-check"></i> Menjadi mitra masyarakat sebagai layanan edukasi kesehatan menuju masyarakat yang sehat.</li>
+            </ul>
           </div>
         </div>
 
@@ -210,42 +207,24 @@
             <img src="assets/img/details-3.png" class="img-fluid" alt="">
           </div>
           <div class="col-md-8 pt-5" data-aos="fade-up">
-            <h3>Sunt consequatur ad ut est nulla consectetur reiciendis animi voluptas</h3>
-            <p>Cupiditate placeat cupiditate placeat est ipsam culpa. Delectus quia minima quod. Sunt saepe odit aut quia voluptatem hic voluptas dolor doloremque.</p>
-            <ul>
-              <li><i class="bi bi-check"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat.</li>
-              <li><i class="bi bi-check"></i> Duis aute irure dolor in reprehenderit in voluptate velit.</li>
-              <li><i class="bi bi-check"></i> Facilis ut et voluptatem aperiam. Autem soluta ad fugiat.</li>
-            </ul>
-            <p>
-              Qui consequatur temporibus. Enim et corporis sit sunt harum praesentium suscipit ut voluptatem. Et nihil magni debitis consequatur est.
-            </p>
-            <p>
-              Suscipit enim et. Ut optio esse quidem quam reiciendis esse odit excepturi. Vel dolores rerum soluta explicabo vel fugiat eum non.
-            </p>
-          </div>
-        </div>
-
-        <div class="row content">
-          <div class="col-md-4 order-1 order-md-2" data-aos="fade-left">
-            <img src="assets/img/details-4.png" class="img-fluid" alt="">
-          </div>
-          <div class="col-md-8 pt-5 order-2 order-md-1" data-aos="fade-up">
-            <h3>Quas et necessitatibus eaque impedit ipsum animi consequatur incidunt in</h3>
-            <p class="fst-italic">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-              magna aliqua.
-            </p>
-            <p>
-              Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-              velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-              culpa qui officia deserunt mollit anim id est laborum
-            </p>
-            <ul>
-              <li><i class="bi bi-check"></i> Et praesentium laboriosam architecto nam .</li>
-              <li><i class="bi bi-check"></i> Eius et voluptate. Enim earum tempore aliquid. Nobis et sunt consequatur. Aut repellat in numquam velit quo dignissimos et.</li>
-              <li><i class="bi bi-check"></i> Facilis ut et voluptatem aperiam. Autem soluta ad fugiat.</li>
-            </ul>
+            <u><h3>Tata Nilai Klinik Fanda Berkat Medika</h3></u>
+            <p></p>
+            <div class="col-md-6 icon-box" data-aos="fade-up">
+              <h4><i class="bi bi-check"></i>Kompeten</h4>
+              <p>Belajar untuk meningkatkan kompetensi dan kapabilitas</p>
+            </div>
+            <div class="col-md-6 icon-box" data-aos="fade-up">
+              <h4><i class="bi bi-check"></i>Loyal</h4>
+              <p>Berdedikasi tinggi dalam bekerja</p>
+            </div>
+            <div class="col-md-6 icon-box" data-aos="fade-up">
+              <h4><i class="bi bi-check"></i>Inovatif</h4>
+              <p>Mengembangkan inovasi dan beradaptasi terhadap perubahan</p>
+            </div>
+            <div class="col-md-6 icon-box" data-aos="fade-up">
+              <h4><i class="bi bi-check"></i>Kolaboratif</h4>
+              <p>Membangun kerja sama sinergis</p>
+            </div>
           </div>
         </div>
 
