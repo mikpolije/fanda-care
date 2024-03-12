@@ -5,12 +5,13 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>HealthSpace- Index</title>
+  <title>HealthSpace</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
   <!-- Favicons -->
   <link href="{{ asset('assets/img/favicon.png') }}" rel="icon">
+  <script src="https://kit.fontawesome.com/1617b92908.js" crossorigin="anonymous"></script>
   < 
   <!-- Google Fonts -->
   <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
@@ -42,7 +43,7 @@
     <div class="container d-flex align-items-center justify-content-between">
 
       <div class="logo">
-        <h1><a href="index.html">HealthSpace</a></h1>
+        <h1><a href="index.html">Klinik FBM Panti</a></h1>
         <!-- Uncomment below if you prefer to use an image logo -->
         <!-- <a href="index.html"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
       </div>
@@ -89,7 +90,7 @@
           <div>
             <h1>Klinik Fanda Berkat Medika Panti</h1>
             <h2></h2>
-            <a href="#" class="download-btn"><i class="fa-regular fa-comments"></i>Telemedicine</a>
+            <a href="#" class="download-btn"><i class="fa-solid fa-comments"></i>Telemedicine</a>
           </div>
         </div>
         <div class="col-lg-6 d-lg-flex flex-lg-column align-items-stretch order-1 order-lg-2 hero-img" data-aos="fade-up">
@@ -107,8 +108,9 @@
       <div class="container">
 
         <div class="section-title">
-          <h2>App Features</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+          <h2>Tentang Klinik</h2>
+          <p>Klinik Fanda Berkat Medika Panti menyediakan layanan medis UGD 24 jam, Rawat  Jalan, Rawat Inap, KIA, Khitan/Sunat,
+            Rawat Luka, Laboratorium, Home Visite, Ambulance, dan Poli Kecantikan (YND)</p>
         </div>
 
         <div class="row no-gutters">
