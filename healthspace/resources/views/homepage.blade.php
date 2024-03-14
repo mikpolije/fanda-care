@@ -71,7 +71,7 @@
           <div>
             <h1>Klinik Fanda Berkat Medika Panti</h1>
             <h2></h2>
-            <a href="#" class="download-btn"><i class="fa-solid fa-comments"></i>Telemedicine</a>
+            <a href="login" class="download-btn"><i class="fa-solid fa-comments"></i>Telemedicine</a>
           </div>
         </div>
         <div class="col-lg-6 d-lg-flex flex-lg-column align-items-stretch order-1 order-lg-2 hero-img" data-aos="fade-up">

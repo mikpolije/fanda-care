@@ -21,3 +21,8 @@ Route::get('/', function () {
 Route::get('/homepage', function () {
     return view('homepage');
 });
+
+//LOGIN
+Route::get('/login', function () {
+    return view('login');
+});
