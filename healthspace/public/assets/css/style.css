@@ -659,7 +659,7 @@ section {
 
 @media (min-width: 992px) {
   .gallery .swiper-wrapper {
-    padding: 40px 0;
+    padding: 40px 5;
   }
 
   .gallery .swiper-slide-active {
@@ -1154,7 +1154,7 @@ section {
 
 #footer .footer-top {
   padding: 60px 0 30px 0;
-  background: #fff;
+  background: #D3EDE8;
 }
 
 #footer .footer-top .footer-contact {

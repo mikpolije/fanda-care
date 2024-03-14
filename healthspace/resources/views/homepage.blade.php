@@ -74,7 +74,7 @@
           </div>
         </div>
         <div class="col-lg-6 d-lg-flex flex-lg-column align-items-stretch order-1 order-lg-2 hero-img" data-aos="fade-up">
-          <img src="assets/img/hero-img.png" class="img-fluid" alt="">
+          <img src="assets/img/hs/hero.png" class="img-fluid" alt="">
         </div>
       </div>
     </div>
@@ -114,6 +114,11 @@
                   <h4>Pelayanan Rawat Inap</h4>
                   <p></p>
                 </div>
+                <div class="col-md-6 icon-box" data-aos="fade-up" data-aos-delay="100">
+                <i class="fa-solid fa-tooth"></i>
+                  <h4>Pelayanan Poli Gigi</h4>
+                  <p></p>
+                </div>
                 <div class="col-md-6 icon-box" data-aos="fade-up" data-aos-delay="300">
                   <i class="bx bx-shield"></i>
                   <h4>Pelayanan Kesehatan Ibu dan Anak (KIA)</h4>
@@ -143,7 +148,7 @@
             </div>
           </div>
           <div class="image col-xl-5 d-flex align-items-stretch justify-content-center order-1 order-lg-2" data-aos="fade-left" data-aos-delay="100">
-            <img src="assets/img/features.svg" class="img-fluid" alt="">
+            <img src="assets/img/hs/tentang.png" class="img-fluid" alt="">
           </div>
         </div>
 
@@ -156,7 +161,7 @@
 
         <div class="row content">
           <div class="col-md-4" data-aos="fade-right">
-            <img src="assets/img/details-1.png" class="img-fluid" alt="">
+            <img src="assets/img/hs/visi.png" class="img-fluid" alt="">
           </div>
           <div class="col-md-8 pt-4" data-aos="fade-up">
             <u><h3>Visi Klinik Fanda Berkat Medika </h3></u>
@@ -169,22 +174,22 @@
 
         <div class="row content">
           <div class="col-md-4 order-1 order-md-2" data-aos="fade-left">
-            <img src="assets/img/details-2.png" class="img-fluid" alt="">
+            <img src="assets/img/hs/misi.png" class="img-fluid" alt="">
           </div>
           <div class="col-md-8 pt-5 order-2 order-md-1" data-aos="fade-up">
             <u><h3>Misi Klinik Fanda Berkat Medika</h3></u>
             <ul>
-              <li><i class="bi bi-check"></i> Menjadikan Klinik sebagai layanan dasar kesehatan yang profesional dan berkualitas</li>
-              <li><i class="bi bi-check"></i> Meningkatkan pengembangan sumber daya manusia di klinik</li>
-              <li><i class="bi bi-check"></i> Menjadikan rujukan pelayanan kesehatan yang menyeluruh bagi masyarakat</li>
-              <li><i class="bi bi-check"></i> Menjadi mitra masyarakat sebagai layanan edukasi kesehatan menuju masyarakat yang sehat.</li>
+              <li><i class="bx bx-chevron-right"></i> Menjadikan Klinik sebagai layanan dasar kesehatan yang profesional dan berkualitas</li>
+              <li><i class="bx bx-chevron-right"></i> Meningkatkan pengembangan sumber daya manusia di klinik</li>
+              <li><i class="bx bx-chevron-right"></i> Menjadikan rujukan pelayanan kesehatan yang menyeluruh bagi masyarakat</li>
+              <li><i class="bx bx-chevron-right"></i> Menjadi mitra masyarakat sebagai layanan edukasi kesehatan menuju masyarakat yang sehat.</li>
             </ul>
           </div>
         </div>
 
         <div class="row content">
           <div class="col-md-4" data-aos="fade-right">
-            <img src="assets/img/details-3.png" class="img-fluid" alt="">
+            <img src="assets/img/hs/tata.png" class="img-fluid" alt="">
           </div>
           <div class="col-md-8 pt-5" data-aos="fade-up">
             <u><h3>Tata Nilai Klinik Fanda Berkat Medika</h3></u>
@@ -225,18 +230,10 @@
       <div class="container-fluid" data-aos="fade-up">
         <div class="gallery-slider swiper">
           <div class="swiper-wrapper">
-            <div class="swiper-slide"><a href="assets/img/gallery/gallery-1.png" class="gallery-lightbox" data-gall="gallery-carousel"><img src="assets/img/gallery/gallery-1.png" class="img-fluid" alt=""></a></div>
-            <div class="swiper-slide"><a href="assets/img/gallery/gallery-2.png" class="gallery-lightbox" data-gall="gallery-carousel"><img src="assets/img/gallery/gallery-2.png" class="img-fluid" alt=""></a></div>
-            <div class="swiper-slide"><a href="assets/img/gallery/gallery-3.png" class="gallery-lightbox" data-gall="gallery-carousel"><img src="assets/img/gallery/gallery-3.png" class="img-fluid" alt=""></a></div>
-            <div class="swiper-slide"><a href="assets/img/gallery/gallery-4.png" class="gallery-lightbox" data-gall="gallery-carousel"><img src="assets/img/gallery/gallery-4.png" class="img-fluid" alt=""></a></div>
-            <div class="swiper-slide"><a href="assets/img/gallery/gallery-5.png" class="gallery-lightbox" data-gall="gallery-carousel"><img src="assets/img/gallery/gallery-5.png" class="img-fluid" alt=""></a></div>
-            <div class="swiper-slide"><a href="assets/img/gallery/gallery-6.png" class="gallery-lightbox" data-gall="gallery-carousel"><img src="assets/img/gallery/gallery-6.png" class="img-fluid" alt=""></a></div>
-            <div class="swiper-slide"><a href="assets/img/gallery/gallery-7.png" class="gallery-lightbox" data-gall="gallery-carousel"><img src="assets/img/gallery/gallery-7.png" class="img-fluid" alt=""></a></div>
-            <div class="swiper-slide"><a href="assets/img/gallery/gallery-8.png" class="gallery-lightbox" data-gall="gallery-carousel"><img src="assets/img/gallery/gallery-8.png" class="img-fluid" alt=""></a></div>
-            <div class="swiper-slide"><a href="assets/img/gallery/gallery-9.png" class="gallery-lightbox" data-gall="gallery-carousel"><img src="assets/img/gallery/gallery-9.png" class="img-fluid" alt=""></a></div>
-            <div class="swiper-slide"><a href="assets/img/gallery/gallery-10.png" class="gallery-lightbox" data-gall="gallery-carousel"><img src="assets/img/gallery/gallery-10.png" class="img-fluid" alt=""></a></div>
-            <div class="swiper-slide"><a href="assets/img/gallery/gallery-11.png" class="gallery-lightbox" data-gall="gallery-carousel"><img src="assets/img/gallery/gallery-11.png" class="img-fluid" alt=""></a></div>
-            <div class="swiper-slide"><a href="assets/img/gallery/gallery-12.png" class="gallery-lightbox" data-gall="gallery-carousel"><img src="assets/img/gallery/gallery-12.png" class="img-fluid" alt=""></a></div>
+            <div class="swiper-slide"><a href="assets/img/klinik/1.png" class="gallery-lightbox" data-gall="gallery-carousel"><img src="assets/img/klinik/1.png" class="img-fluid" alt=""></a></div>
+            <div class="swiper-slide"><a href="assets/img/klinik/2.png" class="gallery-lightbox" data-gall="gallery-carousel"><img src="assets/img/klinik/2.png" class="img-fluid" alt=""></a></div>
+            <div class="swiper-slide"><a href="assets/img/klinik/3.png" class="gallery-lightbox" data-gall="gallery-carousel"><img src="assets/img/klinik/3.png" class="img-fluid" alt=""></a></div>
+            <div class="swiper-slide"><a href="assets/img/klinik/4.png" class="gallery-lightbox" data-gall="gallery-carousel"><img src="assets/img/klinik/4.png" class="img-fluid" alt=""></a></div>
           </div>
           <div class="swiper-pagination"></div>
         </div>
@@ -312,21 +309,6 @@
 
   <!-- ======= Footer ======= -->
   <footer id="footer">
-
-    <div class="footer-newsletter">
-      <div class="container">
-        <div class="row justify-content-center">
-          <div class="col-lg-6">
-            <h4>Join Our Newsletter</h4>
-            <p>Tamen quem nulla quae legam multos aute sint culpa legam noster magna</p>
-            <form action="" method="post">
-              <input type="email" name="email"><input type="submit" value="Subscribe">
-            </form>
-          </div>
-        </div>
-      </div>
-    </div>
-
     
     <div class="footer-top">
       <div class="container">
@@ -369,18 +351,6 @@
       </div>
     </div>
 
-    <div class="container py-4">
-      <div class="copyright">
-        &copy; Copyright <strong><span>Appland</span></strong>. All Rights Reserved
-      </div>
-      <div class="credits">
-        <!-- All the links in the footer should remain intact. -->
-        <!-- You can delete the links only if you purchased the pro version. -->
-        <!-- Licensing information: https://bootstrapmade.com/license/ -->
-        <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/free-bootstrap-app-landing-page-template/ -->
-        Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
-      </div>
-    </div>
   </footer><!-- End Footer -->
 
   <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
