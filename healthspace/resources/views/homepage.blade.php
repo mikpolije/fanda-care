@@ -10,7 +10,7 @@
   <meta content="" name="keywords">
 
   <!-- Favicons -->
-  <link href="{{ asset('assets/img/favicon.png') }}" rel="icon">
+  <link href="{{ asset('assets/img/icon.png') }}" rel="icon">
   <script src="https://kit.fontawesome.com/1617b92908.js" crossorigin="anonymous"></script>
   < 
   <!-- Google Fonts -->
@@ -52,6 +52,7 @@
         <ul>
           <li><a class="nav-link scrollto active" href="#hero">Home</a></li>
           <li><a class="nav-link scrollto" href="#features">Tentang Klinik</a></li>
+          <li><a class="nav-link scrollto" href="#doctors">Dokter</a></li>
           <li><a class="nav-link scrollto" href="#gallery">Gallery</a></li>
           <li><a class="nav-link scrollto" href="#contact">Kontak dan Pengaduan</a></li>
         </ul>
@@ -164,10 +165,10 @@
             <img src="assets/img/hs/visi.png" class="img-fluid" alt="">
           </div>
           <div class="col-md-8 pt-4" data-aos="fade-up">
-            <u><h3>Visi Klinik Fanda Berkat Medika </h3></u>
+            <h3>Visi Klinik Fanda Berkat Medika </h3>
             <p>
-            <h4>Terwujudnya Klinik Fanda Berkat Medika Panti sebagai pusat layanan kesehatan yang terpercaya, 
-            unggul, dan profesional dalam mewujudkan masyarakat yang sehat secara paripurna. </h4>
+            <h5>Terwujudnya Klinik Fanda Berkat Medika Panti sebagai pusat layanan kesehatan yang terpercaya, 
+            unggul, dan profesional dalam mewujudkan masyarakat yang sehat secara paripurna. </h5>
             </p>
           </div>
         </div>
@@ -177,7 +178,7 @@
             <img src="assets/img/hs/misi.png" class="img-fluid" alt="">
           </div>
           <div class="col-md-8 pt-5 order-2 order-md-1" data-aos="fade-up">
-            <u><h3>Misi Klinik Fanda Berkat Medika</h3></u>
+            <h3>Misi Klinik Fanda Berkat Medika</h3>
             <ul>
               <li><i class="bx bx-chevron-right"></i> Menjadikan Klinik sebagai layanan dasar kesehatan yang profesional dan berkualitas</li>
               <li><i class="bx bx-chevron-right"></i> Meningkatkan pengembangan sumber daya manusia di klinik</li>
@@ -192,7 +193,7 @@
             <img src="assets/img/hs/tata.png" class="img-fluid" alt="">
           </div>
           <div class="col-md-8 pt-5" data-aos="fade-up">
-            <u><h3>Tata Nilai Klinik Fanda Berkat Medika</h3></u>
+            <h3>Tata Nilai Klinik Fanda Berkat Medika</h3>
             <p></p>
             <div class="col-md-6 icon-box" data-aos="fade-up">
               <h4><i class="bi bi-check"></i>Kompeten</h4>
@@ -214,8 +215,49 @@
         </div>
 
       </div>
-    </section><!-- End Details Section -->
+    </section>
+    <!-- End Details Section -->
 
+    <!-- ======= Doctor Section ======= -->
+    <section id="doctors" class="doctors">
+      <div class="container">
+
+        <div class="section-title">
+          <h2>Dokter</h2>
+          <p></p>
+        </div>
+
+        <div class="row">
+
+          <div class="col-lg-6">
+            <div class="member d-flex align-items-start">
+              <div class="pic"><img src="assets/img/testimonials/7.png" class="img-fluid" alt=""></div>
+              <div class="member-info">
+                <h4>Dr. Faiqotul Munawaroh</h4>
+                <span></span>
+                <br> 
+                <p>Poli Umum</p>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-6 mt-4 mt-lg-0">
+            <div class="member d-flex align-items-start">
+              <div class="pic"><img src="assets/img/testimonials/8.png" class="img-fluid" alt=""></div>
+              <div class="member-info">
+                <h4>Drg. Salsabila Qotrunnada</h4>
+                <span></span>
+                <br>
+                <p>Poli Gigi</p>
+              </div>
+            </div>
+          </div>
+
+        </div>  
+
+      </div>
+</div>
+    <!-- End Doctor Section -->
     <!-- ======= Gallery Section ======= -->
     <section id="gallery" class="gallery">
       <div class="container" data-aos="fade-up">
@@ -230,10 +272,14 @@
       <div class="container-fluid" data-aos="fade-up">
         <div class="gallery-slider swiper">
           <div class="swiper-wrapper">
-            <div class="swiper-slide"><a href="assets/img/klinik/1.png" class="gallery-lightbox" data-gall="gallery-carousel"><img src="assets/img/klinik/1.png" class="img-fluid" alt=""></a></div>
-            <div class="swiper-slide"><a href="assets/img/klinik/2.png" class="gallery-lightbox" data-gall="gallery-carousel"><img src="assets/img/klinik/2.png" class="img-fluid" alt=""></a></div>
-            <div class="swiper-slide"><a href="assets/img/klinik/3.png" class="gallery-lightbox" data-gall="gallery-carousel"><img src="assets/img/klinik/3.png" class="img-fluid" alt=""></a></div>
-            <div class="swiper-slide"><a href="assets/img/klinik/4.png" class="gallery-lightbox" data-gall="gallery-carousel"><img src="assets/img/klinik/4.png" class="img-fluid" alt=""></a></div>
+            <div class="swiper-slide"><a href="assets/img/klinik/1.png" class="gallery-lightbox" data-gall="gallery-carousel"><img src="assets/img/klinik/1.png" class="img-fluid" alt="" ></a></div>
+            <div class="swiper-slide"><a href="assets/img/klinik/2.png" class="gallery-lightbox" data-gall="gallery-carousel"><img src="assets/img/klinik/2.png" class="img-fluid" alt="" ></a></div>
+            <div class="swiper-slide"><a href="assets/img/klinik/3.png" class="gallery-lightbox" data-gall="gallery-carousel"><img src="assets/img/klinik/3.png" class="img-fluid" alt="" ></a></div>
+            <div class="swiper-slide"><a href="assets/img/klinik/4.png" class="gallery-lightbox" data-gall="gallery-carousel"><img src="assets/img/klinik/4.png" class="img-fluid" alt="" ></a></div>
+            <div class="swiper-slide"><a href="assets/img/klinik/5.png" class="gallery-lightbox" data-gall="gallery-carousel"><img src="assets/img/klinik/5.png" class="img-fluid" alt="" ></a></div>
+            <div class="swiper-slide"><a href="assets/img/klinik/6.png" class="gallery-lightbox" data-gall="gallery-carousel"><img src="assets/img/klinik/6.png" class="img-fluid" alt="" ></a></div>
+            <div class="swiper-slide"><a href="assets/img/klinik/7.png" class="gallery-lightbox" data-gall="gallery-carousel"><img src="assets/img/klinik/7.png" class="img-fluid" alt="" ></a></div>
+            <div class="swiper-slide"><a href="assets/img/klinik/8.png" class="gallery-lightbox" data-gall="gallery-carousel"><img src="assets/img/klinik/8.png" class="img-fluid" alt="" ></a></div>
           </div>
           <div class="swiper-pagination"></div>
         </div>
