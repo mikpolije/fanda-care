@@ -13,20 +13,17 @@ return new class extends Migration
      */
     public function up()
     {
-        Schema::create('users', function (Blueprint $table) {
+        Schema::create('dokters', function (Blueprint $table) {
             $table->id();
-            $table->string('nama')->nullable();
-            $table->string('role');
-            $table->string('email')->unique();
-            // $table->timestamp('email_verified_at')->nullable();
-            $table->string('password');
-            $table->string('profil')->nullable();
-            $table->rememberToken();
+            $table->foreignId('user_id')->constrained();
+            $table->foreignId('poli_id')->constrained();
+            // $table->string('hari_praktik');
+            $table->string('spesialis');
+            // $table->string('jam_praktik');
+
             $table->timestamps();
         });
-  
     }
-    
 
     /**
      * Reverse the migrations.
@@ -35,6 +32,6 @@ return new class extends Migration
      */
     public function down()
     {
-        Schema::dropIfExists('users');
+        Schema::dropIfExists('dokters');
     }
 };
